@@ -1,6 +1,13 @@
-To use the API, we have to first get an API key that you can can from here: https://ai.google.dev/tutorials/setup
+# Google's Gemini AI Chat
 
-Set Environment Variable:
+Suggested Python Version 11.0 and above only
+
+----------
+
+To use the API, you have to first get an API key that you can can from here: https://ai.google.dev/tutorials/setup
+
+-----------
+
 Before running the script, set the environment variable in your terminal or command prompt:
 
 Linux:
